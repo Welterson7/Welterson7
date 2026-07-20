@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨🏻‍💻 Welterson Gabriel
+### 👨🏻‍💻 Welterson Gabriel
 
-### Desenvolvedor Full Stack · Dados & Análise em construção
+## Desenvolvedor Full Stack
 
 <a href="https://weltersongabriel.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -14,8 +14,14 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 <a href="https://www.instagram.com/wg.meira/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-ff0095?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+<a href="https://discord.com/users/1366769884779773983" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-a200ff?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+  <a href="mailto:weltersongabriel.ti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 
 </div>
 
@@ -30,57 +36,39 @@
 ---
 
 ## 👨🏻‍💻 Sobre mim
-
-Desenvolvedor **Full Stack** em busca de estágio, com experiência na criação de aplicações web completas e APIs.
-
-Tenho interesse crescente em **dados**, utilizando Python para análise, visualização e construção de dashboards.
-
-Busco evoluir constantemente e contribuir em projetos colaborativos — principalmente na interseção entre **full stack e dados**.
+Estudante e desenvolvedor em formação com conhecimentos em desenvolvimento web e 
+programação back-end. Experiência prática em projetos pessoais utilizando HTML, CSS, JavaScript, 
+Python, TypeScript, PHP e MySQL. Interesse em desenvolvimento Full-Stack, boas práticas de 
+programação e construção de sistemas web modernos.  
 
 ---
 
 ## 🚀 Tecnologias
 
-### 💻 Linguagens
+#### 💻 Linguagens
 <div>
-  <img src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-5A189A?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript" />
 </div>
 
-### ⚙️ Back-end
+#### ⚙️ Back-end
 <div>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </div>
 
-### 🎨 Front-end
+#### 🎨 Front-end
 <div>
-  <img src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </div>
 
-### 📊 Dados
+#### 🧪 Ferramentas
 <div>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-a00909?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode" />
 </div>
 
-### 🧪 Ferramentas
+#### 🗄️ Banco de Dados
 <div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-### 🗄️ Banco de Dados
-<div>
-  <img src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </div>
 
 ---
